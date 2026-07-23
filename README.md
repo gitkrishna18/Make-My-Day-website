@@ -10,7 +10,7 @@ A modern and responsive bakery & café website developed for **Make My Day**, a 
 
 ## 📸 Preview
 
-![Website Preview](assets/preview.png)
+![Website Preview](assets/previewww.png)
 
 ---
 
